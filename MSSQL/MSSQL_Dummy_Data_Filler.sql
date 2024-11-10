@@ -1,6 +1,9 @@
 /*
     Stored Procedure: InsertDummyData
-    
+
+    Author: Ardian Krasniqi - ardian.krasniqi@hotmail.com
+    Initial release: February 2017
+
     Description:
     This stored procedure generates and inserts dummy data into a specified table in SQL Server based on its schema metadata. The procedure dynamically detects the column types, constraints, and relationships, inserting values according to each column's characteristics.
 
